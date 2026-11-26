@@ -72,4 +72,4 @@ Reference measurement: Rust 1.89.0, Linux 6.18.57, an ext4 cloud volume, AMD EPY
 
 These runs demonstrate storage variability rather than a throughput target. Virtual storage below ext4 was not independently characterized.
 
-This prototype was implemented with AI assistance as a portfolio work sample. It is not a production deployment or evidence of prior individual Rust employment.
+Portfolio prototype. The tests and benchmarks describe local behavior, not a production deployment.
